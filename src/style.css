@@ -1,0 +1,19 @@
+.user-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  .heading-row {
+    margin-top: 10px;
+  }
+  
+  .user-table th{
+    border: 1px solid black;
+    padding: 5px;
+  }
+  .user-table {
+    border: 1px solid black;
+  }
+  .body{
+    background-color: black;
+  }
